@@ -4,3 +4,8 @@ An up-to-date list of open-source AI agent projects worth paying attention to an
 ## Code Agent
 
 https://github.com/bytedance/trae-agent
+
+
+## Deep Research
+
+https://github.com/MiroMindAI/MiroThinker
