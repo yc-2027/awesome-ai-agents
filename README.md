@@ -1,3 +1,5 @@
+[中文](#中文) | [English](#awesome-ai-agents)
+
 # awesome-ai-agents
 An up-to-date list of open-source AI agent projects worth paying attention to and learning from
 
@@ -14,3 +16,5 @@ https://github.com/MiroMindAI/MiroThinker
 
 https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
 * LangGraph
+
+# Framework
