@@ -8,4 +8,9 @@ https://github.com/bytedance/trae-agent
 
 ## Deep Research
 
+https://github.com/bytedance/deer-flow
+
 https://github.com/MiroMindAI/MiroThinker
+
+https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
+* LangGraph
