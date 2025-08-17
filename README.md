@@ -19,4 +19,6 @@ https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
 
 https://github.com/langchain-ai/open_deep_research
 
+https://github.com/patchy631/ai-engineering-hub/tree/main/Multi-Agent-deep-researcher-mcp-windows-linux
+
 # Framework
