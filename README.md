@@ -14,8 +14,7 @@ https://github.com/bytedance/deer-flow
 
 https://github.com/MiroMindAI/MiroThinker
 
-https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
-* LangGraph
+https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart [LangGraph]
 
 https://github.com/langchain-ai/open_deep_research
 
